@@ -1,3 +1,5 @@
+package chapter3;
+
 public class Human {
     private String name;
     private int age;

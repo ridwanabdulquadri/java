@@ -1,9 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="a2f91b05-ee18-4e98-a7ee-ff5ae4afbf72" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Human.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Composition/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Composition/Case.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Composition/Dimensions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Composition/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Composition/Monitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Composition/MotherBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Composition/PC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Composition/Resolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Composition/Vechicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Composition1/Bed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Composition1/Bedroom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Composition1/Ceiling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Composition1/Lamp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Composition1/Wall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/Fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Semicolon/Ceiling2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Semicolon/Cohort15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Semicolon/Inem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Semicolon/Legend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter3/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter3/CarMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter3/Clock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter3/ClockMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter3/HeartRate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter3/HeartRateMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter3/PetrolPurchases.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter4/Analysis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter4/ClassAverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter4/Grade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter5/AutoPolicy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter5/BreakTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter5/Classwork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter5/ContinueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter5/DoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter5/ForCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter5/Interest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter5/LetterGrades.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter5/LogicalOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter5/MainAutoPolicy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter5/SumForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter5/WhileCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter5/switc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter6/Crap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter6/MethodOverload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter6/RandomInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter6/Ridwan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter6/RollDie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter6/maximumFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/Array1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/Array2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/Demograghist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/Demographist2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/Hamburger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/Read.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/Toy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/MemberAccessTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/Time.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/Time1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/Time1Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/encapsulation/EnhancedPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/encapsulation/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/encapsulation/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/encapsulation/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/institution/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/paperBoy/OriginalCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/paperBoy/PaperBoy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/paperBoy/SimpleWalletClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter3/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter3/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +91,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
+        <option value="JUnit5 Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -23,6 +103,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2MI0ETlHVEGHCzBZZStEwxN4WOW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -31,30 +114,97 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/USER/IdeaProjects/myDeitelExercises/src&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="turtil" />
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Array2">
+    <configuration name="Array1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter7.Array1" />
       <module name="java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Array2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter7.Array2" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop1.Main" />
+      <module name="java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Read" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter7.Read" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Toy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter7.Toy" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Array2" />
+        <item itemvalue="Application.Array1" />
+        <item itemvalue="Application.Read" />
+        <item itemvalue="Application.Toy" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -67,7 +217,62 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677439680815</updated>
-      <workItem from="1677439682101" duration="314000" />
+      <workItem from="1677439682101" duration="542000" />
+      <workItem from="1677942548253" duration="428000" />
+      <workItem from="1677943120709" duration="1470000" />
+      <workItem from="1678023250436" duration="10123000" />
+      <workItem from="1678100970415" duration="593000" />
+      <workItem from="1678113619283" duration="2346000" />
+      <workItem from="1678168758093" duration="3350000" />
+      <workItem from="1678194890218" duration="2083000" />
+      <workItem from="1678257850667" duration="6949000" />
+      <workItem from="1678372997648" duration="5838000" />
+      <workItem from="1678435422698" duration="15340000" />
+      <workItem from="1678569730144" duration="624000" />
+      <workItem from="1678625917024" duration="1681000" />
+      <workItem from="1678652297844" duration="1506000" />
+      <workItem from="1678700631375" duration="5945000" />
+      <workItem from="1678819587462" duration="5772000" />
+      <workItem from="1678965035628" duration="9466000" />
+      <workItem from="1679040945297" duration="1438000" />
+      <workItem from="1679060635210" duration="2840000" />
+      <workItem from="1679176111844" duration="10541000" />
+      <workItem from="1679319449673" duration="211000" />
+      <workItem from="1679331354015" duration="8030000" />
+      <workItem from="1679408361956" duration="265000" />
+      <workItem from="1679433387231" duration="594000" />
+      <workItem from="1679476113632" duration="2576000" />
+      <workItem from="1679490559798" duration="2000" />
+      <workItem from="1679498094921" duration="3505000" />
+      <workItem from="1679519215442" duration="4045000" />
+      <workItem from="1679561811641" duration="395000" />
+      <workItem from="1679563270252" duration="6000" />
+      <workItem from="1679593049427" duration="391000" />
+      <workItem from="1679597157455" duration="9554000" />
+      <workItem from="1679648666427" duration="6812000" />
+      <workItem from="1679743311396" duration="6563000" />
+      <workItem from="1679849252253" duration="1788000" />
+      <workItem from="1679909796252" duration="848000" />
+      <workItem from="1679925364378" duration="4921000" />
+      <workItem from="1679931538096" duration="462000" />
+      <workItem from="1679935903608" duration="656000" />
+      <workItem from="1679956512160" duration="3122000" />
+      <workItem from="1679991044085" duration="2948000" />
+      <workItem from="1680001105143" duration="219000" />
+      <workItem from="1680010091066" duration="740000" />
+      <workItem from="1680035588770" duration="500000" />
+      <workItem from="1680036701487" duration="4201000" />
+      <workItem from="1680102751430" duration="4820000" />
+      <workItem from="1680165785097" duration="4019000" />
+      <workItem from="1680174082346" duration="1123000" />
+      <workItem from="1680186023973" duration="4286000" />
+      <workItem from="1680511325425" duration="1617000" />
+      <workItem from="1680624210614" duration="2086000" />
+      <workItem from="1680682634939" duration="589000" />
+      <workItem from="1680774275840" duration="2764000" />
+      <workItem from="1680893008667" duration="659000" />
+      <workItem from="1680959874052" duration="11934000" />
+      <workItem from="1681044547688" duration="7697000" />
     </task>
     <servers />
   </component>
